@@ -592,6 +592,10 @@ border-color: transparent lightseagreen transparent transparent;
             box-shadow: 0 0 9px 5px aqua;
             border: 3px solid aquamarine;
         }
+	   .container:hover{
+            border-color:aqua;
+            border-style: solid;
+        }
     }
 
 /* ------ page - 3 MEDIA QUERYS PAGE 1,2 ABOVE---*/
